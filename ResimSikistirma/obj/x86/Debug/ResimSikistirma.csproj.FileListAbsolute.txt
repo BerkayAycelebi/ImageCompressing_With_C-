@@ -1,0 +1,18 @@
+c:\users\mert.hp_hp\documents\visual studio 2010\Projects\ResimSikistirma\ResimSikistirma\bin\Debug\ResimSikistirma.exe
+c:\users\mert.hp_hp\documents\visual studio 2010\Projects\ResimSikistirma\ResimSikistirma\bin\Debug\ResimSikistirma.pdb
+c:\users\mert.hp_hp\documents\visual studio 2010\Projects\ResimSikistirma\ResimSikistirma\bin\Debug\AquaGauge.dll
+c:\users\mert.hp_hp\documents\visual studio 2010\Projects\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.Form1.resources
+c:\users\mert.hp_hp\documents\visual studio 2010\Projects\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.Properties.Resources.resources
+c:\users\mert.hp_hp\documents\visual studio 2010\Projects\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.csproj.GenerateResource.Cache
+c:\users\mert.hp_hp\documents\visual studio 2010\Projects\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.exe
+c:\users\mert.hp_hp\documents\visual studio 2010\Projects\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.pdb
+C:\Users\Lenovo\Desktop\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.exe
+C:\Users\Lenovo\Desktop\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.pdb
+C:\Users\Lenovo\Desktop\balikavimarketi\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.exe
+C:\Users\Lenovo\Desktop\balikavimarketi\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.pdb
+C:\Users\Lenovo\Desktop\balikavimarketi\ResimSikistirma\ResimSikistirma\bin\Debug\ResimSikistirma.exe
+C:\Users\Lenovo\Desktop\balikavimarketi\ResimSikistirma\ResimSikistirma\bin\Debug\ResimSikistirma.pdb
+C:\Users\Lenovo\Desktop\balikavimarketi\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\balikavimarketi\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.Form1.resources
+C:\Users\Lenovo\Desktop\balikavimarketi\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\balikavimarketi\ResimSikistirma\ResimSikistirma\obj\x86\Debug\ResimSikistirma.csproj.GenerateResource.Cache
